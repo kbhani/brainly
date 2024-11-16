@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.pid.lock
+
+# TypeScript build output
+dist/
+out/
+
+# Env files
+.env
+.env.local
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Dependency directories
+jspm_packages/
+
+# Misc
+*.swp
+*.swo
